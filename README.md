@@ -9,15 +9,16 @@ Each top-level directory contains the following assets:
 - `README.md` : Describes the contents of the top-level directory in more detail
 - `src/`: contains the `.rs` source code files associated with the directory
 - `bin/`: contains the executables corresponding to the source, as compiled with `rustc`.
+- `log/`: contains the output produced by each of the binaries in `bin/`.
 
 Note that this structure is subject to change in the future as complexity increases.
 
 ### Top-Level Directory Listing
 A filled checkbox next to a directory indicates that the section is complete. An unfilled checkbox indicates that work is still in progress.
 
-|Directory|Description|Completed?|
-|---|---|---|
-|[Hello World](./hello_world/)| Contains a basic "Hello World" Application, as well as various programs that demonstrate the concepts of comments and formatted print.| - [ ]|
+|Directory|Description|
+|---|---|
+|✔️ [Hello World](./hello_world/)| Contains a basic "Hello World" Application, as well as various programs that demonstrate the concepts of comments and formatted print.|
 
 <!--Links-->
 [RBE]:(https://doc.rust-lang.org/stable/rust-by-example/index.html)
