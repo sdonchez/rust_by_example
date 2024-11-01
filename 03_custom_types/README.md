@@ -1,4 +1,4 @@
-# 2. Custom Types
+# 3. Custom Types
 The "Custom Types" section contains applications that demonstrate the various types of custom datatypes supported by rust, including structures, enums, and constants.
 
 ## Contents
