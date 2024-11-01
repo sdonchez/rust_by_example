@@ -18,7 +18,10 @@ A filled checkbox next to a directory indicates that the section is complete. An
 
 |Directory|Description|
 |---|---|
-|✔️ [Hello World](./hello_world/)| Contains a basic "Hello World" Application, as well as various programs that demonstrate the concepts of comments and formatted print.|
+|✔️ [Hello World](./01_hello_world/README.md)| Contains a basic "Hello World" Application, as well as various programs that demonstrate the concepts of comments and formatted print.|
+|✔️ [Primitives](./02_primitives/README.md)| Contains applications that explore the various primitive types, as well as tuples, arrays, and slices.
+|✔️ [Custom Types](./03_custom_types/README.md)| Contains applications that demonstrate the various types of custom datatypes supported by rust, including structures, enums, and constants.|
+|✔️ [Variable Bindings](./04_variable_bindings/README.md)|Contains applications that explore variable mutability and scope.
 
 <!--Links-->
 [RBE]:(https://doc.rust-lang.org/stable/rust-by-example/index.html)

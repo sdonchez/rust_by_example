@@ -1,0 +1,4 @@
+before being shadowed: 1
+shadowed in inner block: abc
+outside inner block: 1
+shadowed in outer block: 2
